@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Deliverable2Recap/1.0.0": {
+        "runtime": {
+          "Deliverable2Recap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Deliverable2Recap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

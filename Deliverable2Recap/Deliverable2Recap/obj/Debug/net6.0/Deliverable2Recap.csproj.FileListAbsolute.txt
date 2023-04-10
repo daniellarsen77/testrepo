@@ -1,0 +1,15 @@
+C:\Users\bowha\source\repos\Deliverable2Recap\Deliverable2Recap\bin\Debug\net6.0\Deliverable2Recap.exe
+C:\Users\bowha\source\repos\Deliverable2Recap\Deliverable2Recap\bin\Debug\net6.0\Deliverable2Recap.deps.json
+C:\Users\bowha\source\repos\Deliverable2Recap\Deliverable2Recap\bin\Debug\net6.0\Deliverable2Recap.runtimeconfig.json
+C:\Users\bowha\source\repos\Deliverable2Recap\Deliverable2Recap\bin\Debug\net6.0\Deliverable2Recap.dll
+C:\Users\bowha\source\repos\Deliverable2Recap\Deliverable2Recap\bin\Debug\net6.0\Deliverable2Recap.pdb
+C:\Users\bowha\source\repos\Deliverable2Recap\Deliverable2Recap\obj\Debug\net6.0\Deliverable2Recap.csproj.AssemblyReference.cache
+C:\Users\bowha\source\repos\Deliverable2Recap\Deliverable2Recap\obj\Debug\net6.0\Deliverable2Recap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bowha\source\repos\Deliverable2Recap\Deliverable2Recap\obj\Debug\net6.0\Deliverable2Recap.AssemblyInfoInputs.cache
+C:\Users\bowha\source\repos\Deliverable2Recap\Deliverable2Recap\obj\Debug\net6.0\Deliverable2Recap.AssemblyInfo.cs
+C:\Users\bowha\source\repos\Deliverable2Recap\Deliverable2Recap\obj\Debug\net6.0\Deliverable2Recap.csproj.CoreCompileInputs.cache
+C:\Users\bowha\source\repos\Deliverable2Recap\Deliverable2Recap\obj\Debug\net6.0\Deliverable2Recap.dll
+C:\Users\bowha\source\repos\Deliverable2Recap\Deliverable2Recap\obj\Debug\net6.0\refint\Deliverable2Recap.dll
+C:\Users\bowha\source\repos\Deliverable2Recap\Deliverable2Recap\obj\Debug\net6.0\Deliverable2Recap.pdb
+C:\Users\bowha\source\repos\Deliverable2Recap\Deliverable2Recap\obj\Debug\net6.0\Deliverable2Recap.genruntimeconfig.cache
+C:\Users\bowha\source\repos\Deliverable2Recap\Deliverable2Recap\obj\Debug\net6.0\ref\Deliverable2Recap.dll
